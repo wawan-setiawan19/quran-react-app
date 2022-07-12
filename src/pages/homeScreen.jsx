@@ -6,7 +6,7 @@ import Header from "main/Header"
 const HomeScreen = () => {
     return (
         <>
-        <Header></Header>
+        <Header title='Quran App'></Header>
         <Body></Body>
         <Footer></Footer>
         </>

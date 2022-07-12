@@ -1,6 +1,9 @@
 const Body = () =>{
     return (
-        <h1>Body</h1>
+        <div>
+            Ini mau coba link
+            <a href="http://siasiqu.smpiqualbahjah1.sch.id">SIASIQU</a>
+        </div>
     )
 }
 
